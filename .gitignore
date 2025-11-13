@@ -1,0 +1,25 @@
+# Python / virtualenv
+.vflowa/
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+/staticfiles/
+*.log
+.env
+
+# Editor files
+.vscode/
+.idea/
+.env
+
+# Secure storage
+private_media/
+
+# Media & uploads
+media/
+*.csv
+*.jpg
+*.png
+*.pdf
